@@ -57,6 +57,6 @@ GNU General Public License v3 (GPLv3). See [LICENSE](LICENSE).
 ## Get Involved
 - Issues/Discussions: Report bugs or suggest features.
 - Sponsor: Via GitHub Sponsors or Open Collective.
-- Contact: @pappafotis-jason on X or email jason@ratlabrecords.com.
+- Contact: @jasonpappafotis on X or email jason@ratlabrecords.com.
 
-Let's rock at 8:05! 🎸
+"Check the hands on the clock. It's 8:05, it's time to rock!" -Sammy Hagar 🎸
