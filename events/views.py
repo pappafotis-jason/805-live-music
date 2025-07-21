@@ -30,4 +30,7 @@ def map_view(request):
     print("Map view rendered with events:", list(events))  # Debug output
     return render(request, 'events/map.html', {'events': events})
 
+def home(request):
+    return render(request, 'events/home.html')
+
 # Expand with calendar view later
